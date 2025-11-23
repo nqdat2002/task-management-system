@@ -13,7 +13,7 @@
 				<i id="navbtn" class="fa fa-bars" aria-hidden="true"></i>
 			</label>
 		</h2>
-		<i class="fa fa-user" aria-hidden="true"></i>
+		<i class="fa fa-bell" aria-hidden="true"></i>
 	</header>
 	<div class="body">
 		<nav class="side-bar">
@@ -21,26 +21,33 @@
 				<img src="img/user.jpg">
 				<h4>Dat NQ COMPANY</h4>
 			</div>
+			<!-- Employee -->
 			<ul>
 				<li>
 					<a href="#">
-						<i class="fa fa-desktop" aria-hidden="true"></i>
+						<i class="fa fa-teachometer" aria-hidden="true"></i>
 						<span>Dashboard</span>
 					</a>
 				</li>
 				<li>
 					<a href="#">
-						<i class="fa fa-envelope-o" aria-hidden="true"></i>
-						<span>Message</span>
+						<i class="fa fa-tasks" aria-hidden="true"></i>
+						<span>My Task</span>
 					</a>
 				</li>
 				<li>
 					<a href="#">
-						<i class="fa fa-comment-o" aria-hidden="true"></i>
-						<span>Comment</span>
+						<i class="fa fa-user" aria-hidden="true"></i>
+						<span>Profile</span>
 					</a>
-				</li>
+				</li> 
 				<li>
+					<a href="#">
+						<i class="fa fa-user" aria-hidden="true"></i>
+						<span>Notifications</span>
+					</a>
+				</li> 
+				<!-- <li>
 					<a href="#">
 						<i class="fa fa-info-circle" aria-hidden="true"></i>
 						<span>About</span>
@@ -51,7 +58,7 @@
 						<i class="fa fa-cog" aria-hidden="true"></i>
 						<span>Setting</span>
 					</a>
-				</li>
+				</li> -->
 				<li>
 					<a href="#">
 						<i class="fa fa-power-off" aria-hidden="true"></i>
